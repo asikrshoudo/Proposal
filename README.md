@@ -5,7 +5,8 @@ This is a beautiful, interactive, and mobile-responsive web project built with H
 ---
 
 ## 📜 The "True" Story
-Ami eita kauke proposal deyar jonne banai nai. Eta just ekta fun project silo amar ekta friend-er jonne. O amake request korsilo eta banate, kintu unfortunately pore ar oibhabe kaj kora hoy nai ar amar friend-o proposal dey nai! 😂 Tai bhablam, eto koshtho kore banano project-ta haray jeno na jay, tai GitHub-e rekhe dilam. 
+To be honest, I didn't build this for my own proposal! This was a fun little project I made for a friend who requested it. Unfortunately, the plan didn't go as expected—let's just say the proposal never happened and the mission was aborted! 😂 However, I didn't want my hard work and the code to go to waste, so I decided to preserve it here on GitHub for anyone who wants to see or use it.
+
 
 ---
 
@@ -26,4 +27,18 @@ Proposal/
 ├── css/            # style.css (Design & Animations)
 ├── js/             # script.js (Typing effect & Prank logic)
 └── index.html      # Main structure
+
+```
+
+
+```text
+git clone [https://github.com/asikrshoudo/Proposal.git](https://github.com/asikrshoudo/Proposal.git)
+
+
+```
+
+```text
+cd Proposal
+
+```
 
