@@ -32,7 +32,7 @@ Proposal/
 
 
 ```text
-git clone [https://github.com/asikrshoudo/Proposal.git](https://github.com/asikrshoudo/Proposal.git)
+git clone https://github.com/asikrshoudo/Proposal.git
 
 
 ```
